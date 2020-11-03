@@ -5,7 +5,7 @@ Layout per tastiera italiana con l'aggiunta di alcune lettere greche, simboli, v
 Combinazioni altgr+tasto (sopra) e altgr+shift+tasto (sotto): 
 ![altgr](https://github.com/sarabartoli/ItGrDeadKeysLayout/blob/main/atgr.png)
 
-*L'elenco completo delle combinazioni aggiunte al layout italiano si trova [qua](../blob/master/combinazioni.txt), qualche esempio sotto.*
+*L'elenco completo delle combinazioni aggiunte al layout italiano si trova [qua](./master/combinazioni.txt), qualche esempio sotto.*
 
 ###Dead key
 
@@ -32,7 +32,7 @@ Si ottengono scrivendo la vocale accentata con capslock attivo, ad esempio È = 
 
 Alcuni dei simboli inseriti sono:
 * `altgr`+`\` restituisce `~`
-* `altgr`+`shift`+`\` restituisce ` ` `
+* `altgr`+`shift`+`\` restituisce ``` ` ```
 * `altgr`+`q` restituisce `∩`
 * `altgr`+`shift`+`q` restituisce `∂`
 * `altgr`+`'` restituisce `¿`
@@ -45,6 +45,7 @@ Alcuni dei simboli inseriti sono:
 
 ## File
 [Download setup](https://github.com/sarabartoli/ItGrDeadKeysLayout/tree/main/setup), per installarlo è sufficiente decomprimere la cartella ed eseguire `setup.exe`.
-[Questo](../blob/master/combinazioni.txt) è il .txt con l'elenco completo delle combinazioni di tasti aggiunte a quelle già presenti sul layout italiano di Windows.
 
-Aprendo [questo file](../blob/master/sorgente.klc) con [MSKLC](https://www.microsoft.com/en-us/download/details.aspx?id=102134) è possibile modificare il layout.
+[Questo](./master/combinazioni.txt) è il .txt con l'elenco completo delle combinazioni di tasti aggiunte a quelle già presenti sul layout italiano di Windows.
+
+Aprendo [questo file](./master/sorgente.klc) con [MSKLC](https://www.microsoft.com/en-us/download/details.aspx?id=102134) è possibile modificare il layout.
