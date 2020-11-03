@@ -3,9 +3,9 @@ Layout per tastiera italiana con l'aggiunta di alcune lettere greche, simboli, v
 
 ## Layout
 Combinazioni altgr+tasto (sopra) e altgr+shift+tasto (sotto): 
-![altgr](../blob/main/atgr.png)
+![altgr](../main/atgr.png)
 
-*L'elenco completo delle combinazioni aggiunte al layout italiano si trova [qua](.../blob/main/combinazioni.txt), qualche esempio sotto.*
+*L'elenco completo delle combinazioni aggiunte al layout italiano si trova [qua](../main/combinazioni.txt), qualche esempio sotto.*
 
 ### Dead key
 * **Tilde:** `altgr`+`shift`+`'`, ad esempio ñ, Ñ, ã, Ẽ
@@ -40,8 +40,8 @@ Alcuni dei simboli inseriti sono:
 * `altgr`+`2` restituisce `²`
 
 ## File
-[Download setup](../blob/main/setup), per installarlo è sufficiente decomprimere la cartella ed eseguire `setup.exe`.
+[Download setup](../main/setup), per installarlo è sufficiente decomprimere la cartella ed eseguire `setup.exe`.
 
-[Questo](../blob/main/combinazioni.txt) è il .txt con l'elenco completo delle combinazioni di tasti aggiunte a quelle già presenti sul layout italiano di Windows.
+[Questo](../main/combinazioni.txt) è il .txt con l'elenco completo delle combinazioni di tasti aggiunte a quelle già presenti sul layout italiano di Windows.
 
-Aprendo [questo file](../blob/main/sorgente.klc) con [MSKLC](https://www.microsoft.com/en-us/download/details.aspx?id=102134) è possibile modificare il layout.
+Aprendo [questo file](../main/sorgente.klc) con [MSKLC](https://www.microsoft.com/en-us/download/details.aspx?id=102134) è possibile modificare il layout.
