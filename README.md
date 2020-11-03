@@ -3,7 +3,7 @@ Layout per tastiera italiana con l'aggiunta di alcune lettere greche, simboli, v
 
 ## Layout
 Combinazioni altgr+tasto (sopra) e altgr+shift+tasto (sotto): 
-![altgr](../main/atgr.png)
+![altgr](../main/altgr.png)
 
 *L'elenco completo delle combinazioni aggiunte al layout italiano si trova [qua](../main/combinazioni.txt), qualche esempio sotto.*
 ### Dead key
