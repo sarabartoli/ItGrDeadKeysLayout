@@ -2,12 +2,12 @@
 Layout per tastiera italiana con l'aggiunta di alcune lettere greche, simboli, vocali maiuscole accentate e dead keys per comporre lettere accentate.
 
 ## Layout
-Combinazioni altgr+tasto (sopra) e altgr+shift+tasto (sotto): 
+Combinazioni `altgr`+`tasto` (sopra) e `altgr`+`shift`+`tasto` (sotto): 
 ![altgr](../main/altgr.png)
 
 *L'elenco completo delle combinazioni aggiunte al layout italiano si trova [qua](../main/combinazioni.txt), qualche esempio sotto.*
 ### Dead key
-* **Tilde:** `altgr`+`shift`+`'`+`lettera`, ad esempio `ñ`, `Ñ`, `ã`, `Ẽ`
+* **Tilde:** `altgr`+`shift`+`'`+`*lettera*`, ad esempio `ñ`, `Ñ`, `ã`, `Ẽ`
 * **Accento circonflesso:** `altgr`+`shift`+`ì`+`lettera`, ad esempio `û`, `Û`
 * **Upper dot:** `altgr`+`shift`+`ù`+`lettera`, ad esempio `ẋ`, `İ`
 * **Dieresi:** `altgr`+`shift`+`.`+`lettera`, ad esempio `Ä`, `ẍ`
