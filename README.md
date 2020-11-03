@@ -32,7 +32,7 @@ Si ottengono scrivendo la vocale accentata con capslock attivo, ad esempio È = 
 
 Alcuni dei simboli inseriti sono:
 * `altgr`+`\` restituisce `~`
-* `altgr`+`shift`+`\` restituisce ```
+* `altgr`+`shift`+`\` restituisce ` ` `
 * `altgr`+`q` restituisce `∩`
 * `altgr`+`shift`+`q` restituisce `∂`
 * `altgr`+`'` restituisce `¿`
@@ -45,7 +45,6 @@ Alcuni dei simboli inseriti sono:
 
 ## File
 [Download setup](https://github.com/sarabartoli/ItGrDeadKeysLayout/tree/main/setup), per installarlo è sufficiente decomprimere la cartella ed eseguire `setup.exe`.
-
 [Questo](../blob/master/combinazioni.txt) è il .txt con l'elenco completo delle combinazioni di tasti aggiunte a quelle già presenti sul layout italiano di Windows.
 
 Aprendo [questo file](../blob/master/sorgente.klc) con [MSKLC](https://www.microsoft.com/en-us/download/details.aspx?id=102134) è possibile modificare il layout.
