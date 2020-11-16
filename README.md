@@ -12,13 +12,14 @@ Combinazioni `altgr`+*`tasto`* (sopra) e `altgr`+`shift`+*`tasto`* (sotto):
 * **Upper dot:** `altgr`+`shift`+`ù`+*`lettera`*, ad esempio `ẋ`, `İ`
 * **Dieresi:** `altgr`+`shift`+`.`+*`lettera`*, ad esempio `Ä`, `ẍ`
 * **Macron:** `altgr`+`shift`+`-`+*`lettera`*, ad esempio `Ȳ`,`̄x`
+* **Accento acuto:** `altgr`+`shift`+`4`+*`lettera`*, ad esempio `Á`,`̄á`
 ### Lettere greche
 Alcuni esempi:
 * `altgr`+`a` restituisce `α`
 * `altgr`+`m` restituisce `μ`
 * `altgr`+`p` restituisce `π`
 * `altgr`+`shift`+`o` restituisce `Ω`
-* `altgr`+`shift`+`k` restituisce `Ψ`
+* `altgr`+`shift`+`k` restituisce `ξ`
 ### Vocali maiuscole accentate
 Si ottengono scrivendo la vocale accentata con capslock attivo, ad esempio `È` = `capslock`+`è`, `É` = `capslock`+`shift`+`é`.
 ### Simboli
@@ -26,9 +27,9 @@ Alcuni dei simboli inseriti sono:
 * `altgr`+`\` restituisce `~`
 * `altgr`+`shift`+`\` restituisce ``` ` ```
 * `altgr`+`q` restituisce `∩`
-* `altgr`+`shift`+`q` restituisce `∂`
+* `altgr`+`w` restituisce `∂`
 * `altgr`+`'` restituisce `¿`
-* `altgr`+`shift`+`i` restituisce `∫`
+* `altgr`+`shift`+`n` restituisce `∫`
 * `altgr`+`-` restituisce `±`
 * `altgr`+`.` restituisce `·`
 * `altgr`+`,` restituisce `÷`
