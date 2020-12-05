@@ -12,7 +12,7 @@ Combinazioni `altgr`+*`tasto`* (sopra) e `altgr`+`shift`+*`tasto`* (sotto):
 * **Upper dot:** `altgr`+`shift`+`ù`+*`lettera`*, ad esempio `ẋ`, `İ`
 * **Dieresi:** `altgr`+`shift`+`.`+*`lettera`*, ad esempio `Ä`, `ẍ`
 * **Macron:** `altgr`+`shift`+`-`+*`lettera`*, ad esempio `Ȳ`,`̄x`
-* **Accento acuto:** `altgr`+`shift`+`4`+*`lettera`*, ad esempio `Á`,`̄á`
+* **Accento acuto:** `altgr`+`shift`+`4`+*`lettera`*, ad esempio `Á`,`á`
 ### Lettere greche
 Alcuni esempi:
 * `altgr`+`a` restituisce `α`
