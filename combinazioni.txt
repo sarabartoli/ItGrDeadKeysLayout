@@ -1,12 +1,15 @@
 ~ altgr+\ 
 ` altgr+shift+\ 
-¡ altgr+1 
+⅟ altgr+1 
+¡ altgr+shift+1 
 ² altgr+2 
 ³ altgr+3 
 á altgr+shift+4 (deadKey)
 ‰ altgr+6 
+⸦ altgr+8 
+⸧ altgr+shift+8 
 ≤ altgr+9 
-≥ altgr+shift+9
+≥ altgr+shift+9 
 ≠ altgr+0 
 ≈ altgr+shift+0 
 ¿ altgr+' 
@@ -20,6 +23,7 @@
 ¬ altgr+shift+w 
 ε altgr+shift+e 
 ρ altgr+r 
+√ altgr+shift+r 
 θ altgr+t 
 Θ altgr+shift+t 
 ȳ altgr+y 
