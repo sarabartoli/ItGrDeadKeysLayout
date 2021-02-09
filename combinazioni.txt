@@ -75,3 +75,4 @@ v altgr+shift+ù (deadKey)
 ö altgr+shift+. (deadKey)
 ± altgr+- 
 ū altgr+shift+- (deadKey)
+Vocali maiuscole accentate: capslock+vocale accentata
