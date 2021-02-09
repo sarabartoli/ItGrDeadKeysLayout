@@ -19,7 +19,7 @@ Alcuni esempi:
 * `altgr`+`m` restituisce `μ`
 * `altgr`+`p` restituisce `π`
 * `altgr`+`shift`+`o` restituisce `Ω`
-* `altgr`+`shift`+`k` restituisce `ξ`
+* `altgr`+`shift`+`k` restituisce `Ξ`
 ### Vocali maiuscole accentate
 Si ottengono scrivendo la vocale accentata con capslock attivo, ad esempio `È` = `capslock`+`è`, `É` = `capslock`+`shift`+`é`.
 ### Simboli
